@@ -8,6 +8,7 @@ from keras import backend as K
 import math
 import tensorflow as tf
 import horovod.keras as hvd
+import numpy as np
 
 # Horovod: initialize Horovod.
 hvd.init()

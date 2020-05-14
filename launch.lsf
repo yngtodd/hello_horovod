@@ -18,4 +18,4 @@ EXECUTABLE=keras_mnist.py
 
 CMD="python $EXP_ROOT/$EXECUTABLE"
 
-jsrun -n3 -a1 -c7 -g1 $CMD
+jsrun -n1 -a1 -c7 -g1 $CMD
