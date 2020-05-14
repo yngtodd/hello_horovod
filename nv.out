@@ -1,0 +1,282 @@
+2020-05-14 15:51:05.612306: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-14 15:51:05.612306: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-14 15:51:05.612339: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-14 15:51:05.612339: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-14 15:51:05.612306: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-05-14 15:51:05.612339: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936767 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936764 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936767 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936764 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936767 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Using TensorFlow backend.
+WARNING: Logging before flag parsing goes to stderr.
+W0514 15:51:11.936764 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:117: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+W0514 15:51:11.936955 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:11.936954 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:11.936952 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:11.936953 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:11.936951 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:11.936954 35184372403808 module_wrapper.py:139] From /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/horovod/tensorflow/__init__.py:143: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+W0514 15:51:12.118780 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.118780 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.118845 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.118780 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.118827 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.118826 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:16: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+W0514 15:51:12.119119 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+W0514 15:51:12.119119 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+W0514 15:51:12.119089 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+W0514 15:51:12.119088 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+W0514 15:51:12.119090 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+W0514 15:51:12.119119 35184372403808 module_wrapper.py:139] From /gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod/keras_mnist.py:19: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-05-14 15:51:12.137043: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.137043: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.137190: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.137222: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.137249: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.137222: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 3450000000 Hz
+2020-05-14 15:51:12.138616: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x16fea99e0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138640: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.138665: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x14f589d90 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138687: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.138697: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x11ac79610 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138718: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.138740: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x14ab79ab0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138761: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.138843: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x12a81a350 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138859: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.138861: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x14a139c20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-05-14 15:51:12.138887: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-05-14 15:51:12.168941: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.168941: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.168941: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.169251: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.169252: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.169251: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-05-14 15:51:12.832268: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Internal: no supported devices found for platform CUDA
+[d36n04:120356] *** Process received signal ***
+[d36n04:120356] Signal: Aborted (6)
+[d36n04:120356] Signal code:  (-6)
+[d36n04:120356] [ 0] [0x2000000504d8]
+[d36n04:120356] [ 1] /lib64/libc.so.6(abort+0x2b4)[0x200000182094]
+[d36n04:120356] [ 2] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow8internal15LogMessageFatalD1Ev+0x3c)[0x200050e085ac]
+[d36n04:120356] [ 3] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN15stream_executor4port17internal_statusor6Helper5CrashERKN10tensorflow6StatusE+0x7c)[0x200050cadd1c]
+[d36n04:120356] [ 4] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZNK10tensorflow9XlaDevice6clientEv+0x10c)[0x20004b1baccc]
+[d36n04:120356] [ 5] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice22GetDeviceContextLockedEv+0x5c)[0x20004b1bce9c]
+[d36n04:120356] [ 6] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice16UseGpuDeviceInfoEv+0x54)[0x20004b1be244]
+[d36n04:120356] [ 7] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow19XlaGpuDeviceFactory13CreateDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x654)[0x20004b1a2be4]
+[d36n04:120356] [ 8] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow13DeviceFactory10AddDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x1d4)[0x200073c34c24]
+[d36n04:120356] [ 9] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow20DirectSessionFactory10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x314)[0x20004a1d5294]
+[d36n04:120356] [10] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x12c)[0x200073cd376c]
+[d36n04:120356] [11] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(TF_NewSession+0x40)[0x200046abd740]
+[d36n04:120356] [12] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow16TF_NewSessionRefEP8TF_GraphPK17TF_SessionOptionsP9TF_Status+0x24)[0x200046221b54]
+[d36n04:120356] [13] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(+0x2498860)[0x200046198860]
+[d36n04:120356] [14] python(_PyCFunction_FastCallDict+0xb0)[0x118485890]
+[d36n04:120356] [15] python(_PyCFunction_FastCallKeywords+0x24)[0x1184d2754]
+[d36n04:120356] [16] python(+0x1c0a2c)[0x118570a2c]
+[d36n04:120356] [17] python(_PyEval_EvalFrameDefault+0x604)[0x1185aafc4]
+[d36n04:120356] [18] python(PyEval_EvalFrameEx+0x34)[0x118463244]
+[d36n04:120356] [19] python(+0x1b4f08)[0x118564f08]
+[d36n04:120356] [20] python(+0x1b6b74)[0x118566b74]
+[d36n04:120356] [21] python(+0x1c0bac)[0x118570bac]
+[d36n04:120356] [22] python(_PyEval_EvalFrameDefault+0x171c)[0x1185ac0dc]
+[d36n04:120356] [23] python(PyEval_EvalFrameEx+0x34)[0x118463244]
+[d36n04:120356] [24] python(+0x1b4f08)[0x118564f08]
+[d36n04:120356] [25] python(_PyFunction_FastCallDict+0x4dc)[0x1185677cc]
+[d36n04:120356] [26] python(_PyObject_FastCallDict+0x2fc)[0x118485efc]
+[d36n04:120356] [27] python(_PyObject_Call_Prepend+0x88)[0x11848ee48]
+[d36n04:120356] [28] python(+0xdef74)[0x11848ef74]
+[d36n04:120356] [29] python(PyObject_Call+0x74)[0x118485664]
+[d36n04:120356] *** End of error message ***
+2020-05-14 15:51:12.881711: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Internal: no supported devices found for platform CUDA
+[d36n04:120355] *** Process received signal ***
+[d36n04:120355] Signal: Aborted (6)
+[d36n04:120355] Signal code:  (-6)
+[d36n04:120355] [ 0] [0x2000000504d8]
+[d36n04:120355] [ 1] /lib64/libc.so.6(abort+0x2b4)[0x200000182094]
+[d36n04:120355] [ 2] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow8internal15LogMessageFatalD1Ev+0x3c)[0x200050e085ac]
+[d36n04:120355] [ 3] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN15stream_executor4port17internal_statusor6Helper5CrashERKN10tensorflow6StatusE+0x7c)[0x200050cadd1c]
+[d36n04:120355] [ 4] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZNK10tensorflow9XlaDevice6clientEv+0x10c)[0x20004b1baccc]
+[d36n04:120355] [ 5] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice22GetDeviceContextLockedEv+0x5c)[0x20004b1bce9c]
+[d36n04:120355] [ 6] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice16UseGpuDeviceInfoEv+0x54)[0x20004b1be244]
+[d36n04:120355] [ 7] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow19XlaGpuDeviceFactory13CreateDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x654)[0x20004b1a2be4]
+[d36n04:120355] [ 8] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow13DeviceFactory10AddDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x1d4)[0x200073c34c24]
+[d36n04:120355] [ 9] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow20DirectSessionFactory10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x314)[0x20004a1d5294]
+[d36n04:120355] [10] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x12c)[0x200073cd376c]
+[d36n04:120355] [11] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(TF_NewSession+0x40)[0x200046abd740]
+[d36n04:120355] [12] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow16TF_NewSessionRefEP8TF_GraphPK17TF_SessionOptionsP9TF_Status+0x24)[0x200046221b54]
+[d36n04:120355] [13] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(+0x2498860)[0x200046198860]
+[d36n04:120355] [14] python(_PyCFunction_FastCallDict+0xb0)[0x10a745890]
+[d36n04:120355] [15] python(_PyCFunction_FastCallKeywords+0x24)[0x10a792754]
+[d36n04:120355] [16] python(+0x1c0a2c)[0x10a830a2c]
+[d36n04:120355] [17] python(_PyEval_EvalFrameDefault+0x604)[0x10a86afc4]
+[d36n04:120355] [18] python(PyEval_EvalFrameEx+0x34)[0x10a723244]
+[d36n04:120355] [19] python(+0x1b4f08)[0x10a824f08]
+[d36n04:120355] [20] python(+0x1b6b74)[0x10a826b74]
+[d36n04:120355] [21] python(+0x1c0bac)[0x10a830bac]
+[d36n04:120355] [22] python(_PyEval_EvalFrameDefault+0x171c)[0x10a86c0dc]
+[d36n04:120355] [23] python(PyEval_EvalFrameEx+0x34)[0x10a723244]
+[d36n04:120355] [24] python(+0x1b4f08)[0x10a824f08]
+[d36n04:120355] [25] python(_PyFunction_FastCallDict+0x4dc)[0x10a8277cc]
+[d36n04:120355] [26] python(_PyObject_FastCallDict+0x2fc)[0x10a745efc]
+[d36n04:120355] [27] python(_PyObject_Call_Prepend+0x88)[0x10a74ee48]
+[d36n04:120355] [28] python(+0xdef74)[0x10a74ef74]
+[d36n04:120355] [29] python(PyObject_Call+0x74)[0x10a745664]
+[d36n04:120355] *** End of error message ***
+2020-05-14 15:51:12.929064: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Internal: no supported devices found for platform CUDA
+[d36n04:120358] *** Process received signal ***
+[d36n04:120358] Signal: Aborted (6)
+[d36n04:120358] Signal code:  (-6)
+[d36n04:120358] [ 0] [0x2000000504d8]
+[d36n04:120358] [ 1] /lib64/libc.so.6(abort+0x2b4)[0x200000182094]
+[d36n04:120358] [ 2] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow8internal15LogMessageFatalD1Ev+0x3c)[0x200050e085ac]
+[d36n04:120358] [ 3] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN15stream_executor4port17internal_statusor6Helper5CrashERKN10tensorflow6StatusE+0x7c)[0x200050cadd1c]
+[d36n04:120358] [ 4] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZNK10tensorflow9XlaDevice6clientEv+0x10c)[0x20004b1baccc]
+[d36n04:120358] [ 5] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice22GetDeviceContextLockedEv+0x5c)[0x20004b1bce9c]
+[d36n04:120358] [ 6] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice16UseGpuDeviceInfoEv+0x54)[0x20004b1be244]
+[d36n04:120358] [ 7] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow19XlaGpuDeviceFactory13CreateDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x654)[0x20004b1a2be4]
+[d36n04:120358] [ 8] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow13DeviceFactory10AddDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x1d4)[0x200073c34c24]
+[d36n04:120358] [ 9] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow20DirectSessionFactory10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x314)[0x20004a1d5294]
+[d36n04:120358] [10] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x12c)[0x200073cd376c]
+[d36n04:120358] [11] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(TF_NewSession+0x40)[0x200046abd740]
+[d36n04:120358] [12] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow16TF_NewSessionRefEP8TF_GraphPK17TF_SessionOptionsP9TF_Status+0x24)[0x200046221b54]
+[d36n04:120358] [13] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(+0x2498860)[0x200046198860]
+[d36n04:120358] [14] python(_PyCFunction_FastCallDict+0xb0)[0x124105890]
+[d36n04:120358] [15] python(_PyCFunction_FastCallKeywords+0x24)[0x124152754]
+[d36n04:120358] [16] python(+0x1c0a2c)[0x1241f0a2c]
+[d36n04:120358] [17] python(_PyEval_EvalFrameDefault+0x604)[0x12422afc4]
+[d36n04:120358] [18] python(PyEval_EvalFrameEx+0x34)[0x1240e3244]
+[d36n04:120358] [19] python(+0x1b4f08)[0x1241e4f08]
+[d36n04:120358] [20] python(+0x1b6b74)[0x1241e6b74]
+[d36n04:120358] [21] python(+0x1c0bac)[0x1241f0bac]
+[d36n04:120358] [22] python(_PyEval_EvalFrameDefault+0x171c)[0x12422c0dc]
+[d36n04:120358] [23] python(PyEval_EvalFrameEx+0x34)[0x1240e3244]
+[d36n04:120358] [24] python(+0x1b4f08)[0x1241e4f08]
+[d36n04:120358] [25] python(_PyFunction_FastCallDict+0x4dc)[0x1241e77cc]
+[d36n04:120358] [26] python(_PyObject_FastCallDict+0x2fc)[0x124105efc]
+[d36n04:120358] [27] python(_PyObject_Call_Prepend+0x88)[0x12410ee48]
+[d36n04:120358] [28] python(+0xdef74)[0x12410ef74]
+[d36n04:120358] [29] python(PyObject_Call+0x74)[0x124105664]
+[d36n04:120358] *** End of error message ***
+2020-05-14 15:51:12.984154: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Internal: no supported devices found for platform CUDA
+[d36n04:120359] *** Process received signal ***
+[d36n04:120359] Signal: Aborted (6)
+[d36n04:120359] Signal code:  (-6)
+[d36n04:120359] [ 0] [0x2000000504d8]
+[d36n04:120359] [ 1] /lib64/libc.so.6(abort+0x2b4)[0x200000182094]
+[d36n04:120359] [ 2] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow8internal15LogMessageFatalD1Ev+0x3c)[0x200050e085ac]
+[d36n04:120359] [ 3] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN15stream_executor4port17internal_statusor6Helper5CrashERKN10tensorflow6StatusE+0x7c)[0x200050cadd1c]
+[d36n04:120359] [ 4] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZNK10tensorflow9XlaDevice6clientEv+0x10c)[0x20004b1baccc]
+[d36n04:120359] [ 5] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice22GetDeviceContextLockedEv+0x5c)[0x20004b1bce9c]
+[d36n04:120359] [ 6] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice16UseGpuDeviceInfoEv+0x54)[0x20004b1be244]
+[d36n04:120359] [ 7] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow19XlaGpuDeviceFactory13CreateDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x654)[0x20004b1a2be4]
+[d36n04:120359] [ 8] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow13DeviceFactory10AddDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x1d4)[0x200073c34c24]
+[d36n04:120359] [ 9] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow20DirectSessionFactory10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x314)[0x20004a1d5294]
+[d36n04:120359] [10] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x12c)[0x200073cd376c]
+[d36n04:120359] [11] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(TF_NewSession+0x40)[0x200046abd740]
+[d36n04:120359] [12] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow16TF_NewSessionRefEP8TF_GraphPK17TF_SessionOptionsP9TF_Status+0x24)[0x200046221b54]
+[d36n04:120359] [13] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(+0x2498860)[0x200046198860]
+[d36n04:120359] [14] python(_PyCFunction_FastCallDict+0xb0)[0x13e6d5890]
+[d36n04:120359] [15] python(_PyCFunction_FastCallKeywords+0x24)[0x13e722754]
+[d36n04:120359] [16] python(+0x1c0a2c)[0x13e7c0a2c]
+[d36n04:120359] [17] python(_PyEval_EvalFrameDefault+0x604)[0x13e7fafc4]
+[d36n04:120359] [18] python(PyEval_EvalFrameEx+0x34)[0x13e6b3244]
+[d36n04:120359] [19] python(+0x1b4f08)[0x13e7b4f08]
+[d36n04:120359] [20] python(+0x1b6b74)[0x13e7b6b74]
+[d36n04:120359] [21] python(+0x1c0bac)[0x13e7c0bac]
+[d36n04:120359] [22] python(_PyEval_EvalFrameDefault+0x171c)[0x13e7fc0dc]
+[d36n04:120359] [23] python(PyEval_EvalFrameEx+0x34)[0x13e6b3244]
+[d36n04:120359] [24] python(+0x1b4f08)[0x13e7b4f08]
+[d36n04:120359] [25] python(_PyFunction_FastCallDict+0x4dc)[0x13e7b77cc]
+[d36n04:120359] [26] python(_PyObject_FastCallDict+0x2fc)[0x13e6d5efc]
+[d36n04:120359] [27] python(_PyObject_Call_Prepend+0x88)[0x13e6dee48]
+[d36n04:120359] [28] python(+0xdef74)[0x13e6def74]
+[d36n04:120359] [29] python(PyObject_Call+0x74)[0x13e6d5664]
+[d36n04:120359] *** End of error message ***
+2020-05-14 15:51:13.101615: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Internal: no supported devices found for platform CUDA
+[d36n04:120357] *** Process received signal ***
+[d36n04:120357] Signal: Aborted (6)
+[d36n04:120357] Signal code:  (-6)
+[d36n04:120357] [ 0] [0x2000000504d8]
+[d36n04:120357] [ 1] /lib64/libc.so.6(abort+0x2b4)[0x200000182094]
+[d36n04:120357] [ 2] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow8internal15LogMessageFatalD1Ev+0x3c)[0x200050e085ac]
+[d36n04:120357] [ 3] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN15stream_executor4port17internal_statusor6Helper5CrashERKN10tensorflow6StatusE+0x7c)[0x200050cadd1c]
+[d36n04:120357] [ 4] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZNK10tensorflow9XlaDevice6clientEv+0x10c)[0x20004b1baccc]
+[d36n04:120357] [ 5] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice22GetDeviceContextLockedEv+0x5c)[0x20004b1bce9c]
+[d36n04:120357] [ 6] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow9XlaDevice16UseGpuDeviceInfoEv+0x54)[0x20004b1be244]
+[d36n04:120357] [ 7] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow19XlaGpuDeviceFactory13CreateDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x654)[0x20004b1a2be4]
+[d36n04:120357] [ 8] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow13DeviceFactory10AddDevicesERKNS_14SessionOptionsERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPSt6vectorISt10unique_ptrINS_6DeviceESt14default_deleteISE_EESaISH_EE+0x1d4)[0x200073c34c24]
+[d36n04:120357] [ 9] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow20DirectSessionFactory10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x314)[0x20004a1d5294]
+[d36n04:120357] [10] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/../libtensorflow_framework.so.1(_ZN10tensorflow10NewSessionERKNS_14SessionOptionsEPPNS_7SessionE+0x12c)[0x200073cd376c]
+[d36n04:120357] [11] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(TF_NewSession+0x40)[0x200046abd740]
+[d36n04:120357] [12] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(_ZN10tensorflow16TF_NewSessionRefEP8TF_GraphPK17TF_SessionOptionsP9TF_Status+0x24)[0x200046221b54]
+[d36n04:120357] [13] /sw/summit/ibm-wml-ce/anaconda-base/envs/ibm-wml-ce-1.6.2-3/lib/python3.6/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so(+0x2498860)[0x200046198860]
+[d36n04:120357] [14] python(_PyCFunction_FastCallDict+0xb0)[0x10eb65890]
+[d36n04:120357] [15] python(_PyCFunction_FastCallKeywords+0x24)[0x10ebb2754]
+[d36n04:120357] [16] python(+0x1c0a2c)[0x10ec50a2c]
+[d36n04:120357] [17] python(_PyEval_EvalFrameDefault+0x604)[0x10ec8afc4]
+[d36n04:120357] [18] python(PyEval_EvalFrameEx+0x34)[0x10eb43244]
+[d36n04:120357] [19] python(+0x1b4f08)[0x10ec44f08]
+[d36n04:120357] [20] python(+0x1b6b74)[0x10ec46b74]
+[d36n04:120357] [21] python(+0x1c0bac)[0x10ec50bac]
+[d36n04:120357] [22] python(_PyEval_EvalFrameDefault+0x171c)[0x10ec8c0dc]
+[d36n04:120357] [23] python(PyEval_EvalFrameEx+0x34)[0x10eb43244]
+[d36n04:120357] [24] python(+0x1b4f08)[0x10ec44f08]
+[d36n04:120357] [25] python(_PyFunction_FastCallDict+0x4dc)[0x10ec477cc]
+[d36n04:120357] [26] python(_PyObject_FastCallDict+0x2fc)[0x10eb65efc]
+[d36n04:120357] [27] python(_PyObject_Call_Prepend+0x88)[0x10eb6ee48]
+[d36n04:120357] [28] python(+0xdef74)[0x10eb6ef74]
+[d36n04:120357] [29] python(PyObject_Call+0x74)[0x10eb65664]
+[d36n04:120357] *** End of error message ***
+ERROR:  One or more process (first noticed rank 2) terminated with signal 6 (core dumped)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch4>
+Subject: Job 96806: <nv> in cluster <summit> Exited
+
+Job <nv> was submitted from host <login2> by user <yngtodd> in cluster <summit> at Thu May 14 15:50:27 2020
+Job was executed on host(s) <1*batch4>, in queue <batch>, as user <yngtodd> in cluster <summit> at Thu May 14 15:50:46 2020
+                            <42*d36n04>
+</ccs/home/yngtodd> was used as the home directory.
+</gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod> was used as the working directory.
+Started at Thu May 14 15:50:46 2020
+Terminated at Thu May 14 15:51:14 2020
+Results reported at Thu May 14 15:51:14 2020
+
+The output (if any) is above this job summary.
+
