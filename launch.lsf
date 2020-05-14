@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#BSUB -P med111
+#BSUB -J hello
+#BSUB -o hello.out
+#BSUB -W 1:00
+#BSUB -nnodes 1
+
+module restore
+module unload darshan
+module load gcc
+module load cuda
+module load ibm-wml-ce/1.6.2-3
+#conda activate /gpfs/alpine/proj-shared/med111/yngtodd/env/nine
+
+EXP_ROOT=/gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod
+EXECUTABLE=keras_mnist.py
+
+CMD="python $EXP_ROOT/$EXECUTABLE"
+
+jsrun -n3 -a1 -c7 -g1 $CMD
