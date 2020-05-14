@@ -288,3 +288,29 @@ Results reported at Thu May 14 16:04:13 2020
 
 The output (if any) is above this job summary.
 
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+
+Lmod is automatically replacing "xl/16.1.1-5" with "gcc/6.4.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) spectrum-mpi/10.3.1.2-20200121
+
+Error: nrs (1) should be evenly divided rs_per_host (6)
+Error: Requested job constraints can never be met. Job was not scheduled. Check your request and try again.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch4>
+Subject: Job 96869: <nv> in cluster <summit> Exited
+
+Job <nv> was submitted from host <login2> by user <yngtodd> in cluster <summit> at Thu May 14 16:25:11 2020
+Job was executed on host(s) <1*batch4>, in queue <batch>, as user <yngtodd> in cluster <summit> at Thu May 14 16:25:46 2020
+                            <42*b22n14>
+</ccs/home/yngtodd> was used as the home directory.
+</gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod> was used as the working directory.
+Started at Thu May 14 16:25:46 2020
+Terminated at Thu May 14 16:26:05 2020
+Results reported at Thu May 14 16:26:05 2020
+
+The output (if any) is above this job summary.
+

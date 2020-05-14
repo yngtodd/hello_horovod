@@ -21,4 +21,4 @@ EXECUTABLE=keras_mnist.py
 
 CMD="python $EXP_ROOT/$EXECUTABLE"
 
-jsrun -n$((NODES*6)) -a1 -c7 -g1 -r6 --bind=proportional-packed:7 --launch_distribution=packed $CMD
+jsrun -n$((NODES*1)) -a1 -c7 -g1 -r6 --bind=proportional-packed:7 --launch_distribution=packed $CMD
