@@ -4,7 +4,7 @@
 #BSUB -J hello
 #BSUB -o hello.out
 #BSUB -W 1:00
-#BSUB -nnodes 1
+#BSUB -nnodes 2
 
 module restore
 module unload darshan
@@ -18,4 +18,5 @@ EXECUTABLE=keras_mnist.py
 
 CMD="python $EXP_ROOT/$EXECUTABLE"
 
-jsrun -n1 -a1 -c7 -g1 $CMD
+#jsrun -n1 -a1 -c7 -g1 $CMD
+jsrun -n 12 -c 7 -g 1 -r 6 -p 1 $CMD

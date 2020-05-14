@@ -90,7 +90,9 @@ callbacks = [
 
 # Horovod: save checkpoints only on worker 0 to prevent other workers from corrupting them.
 if hvd.rank() == 0:
-    callbacks.append(keras.callbacks.ModelCheckpoint('./checkpoint-{epoch}.h5'))
+    callbacks.append(keras.callbacks.ModelCheckpoint('./checkpoints/checkpoint-{epoch}.h5'))
+
+print(f'hello from rank {hvd.rank()}')
 
 model.fit(x_train, y_train,
           batch_size=batch_size,
