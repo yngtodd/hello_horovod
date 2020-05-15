@@ -3,7 +3,7 @@
 #BSUB -P med111
 #BSUB -J hello
 #BSUB -o hello.out
-#BSUB -W 1:00
+#BSUB -W 0:15
 #BSUB -nnodes 2
 
 module restore
@@ -13,10 +13,12 @@ module load cuda
 module load ibm-wml-ce/1.6.2-3
 #conda activate /gpfs/alpine/proj-shared/med111/yngtodd/env/nine
 
+NODES=$(cat ${LSB_DJOB_HOSTFILE} | sort | uniq | grep -v login | grep -v batch | wc -l)
+
 EXP_ROOT=/gpfs/alpine/proj-shared/med111/yngtodd/src/opt/hello_horovod
 EXECUTABLE=keras_mnist.py
 
 CMD="python $EXP_ROOT/$EXECUTABLE"
 
-#jsrun -n1 -a1 -c7 -g1 $CMD
-jsrun -n 12 -c 7 -g 1 -r 6 -p 1 $CMD
+#jsrun -n 1 -a 1 -c 7 -g 1 -r 12 $CMD
+jsrun -n$((NODES*6)) -a1 -c7 -g1 -r6 --bind=proportional-packed:7 --launch_distribution=packed $CMD
